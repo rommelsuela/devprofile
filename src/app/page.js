@@ -149,9 +149,7 @@ export default function Home() {
             <p className="mt-3 leading-7 text-zinc-700">
               Migrating a business application from Microsoft Power Apps to a
               custom .NET solution using C#, .NET Core, Blazor, Fluent UI, and
-              SharePoint. The work includes reusable UI components, business
-              logic, data workflows, and a React/TypeScript frontend integrated
-              with REST APIs.
+              SharePoint.
             </p>
           </article>
         </div>
